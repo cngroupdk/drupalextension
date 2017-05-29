@@ -17,9 +17,7 @@
     "behat/mink-selenium2-driver": "~1.1",
     "behat/behat": "~3.2",
     "behat/mink-extension": "~2.0",
-    "drupal/drupal-driver": "dev-master",
-    "symfony/dependency-injection": "~2.7",
-    "symfony/event-dispatcher": "~2.7"
+    "drupal/drupal-driver": "dev-master"
   },
   "require-dev": {
     "phpspec/phpspec": "~2.0",
